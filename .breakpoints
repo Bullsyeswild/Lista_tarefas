@@ -1,0 +1,20 @@
+{
+  "files": {
+    "draw.h": [
+      {
+        "id": "9f1fb33e-2bb3-4bc4-86f8-b7d805896bb4",
+        "line": 73,
+        "version": 1,
+        "index": 1903
+      }
+    ],
+    "main.c": [
+      {
+        "id": "1b9e2895-0aa2-458c-b00c-a37c149133e8",
+        "line": 53,
+        "version": 380,
+        "index": 1046
+      }
+    ]
+  }
+}
