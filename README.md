@@ -7,6 +7,6 @@ To do list em C usando listas duplamente encadeadas e salvamento em arquivos!
 | :rocket: URL         | [https://replit.com/@Bullsyeswild]
 
 
-https://github.com/Bullsyeswild/To_do_List/assets/127852691/4221a368-1feb-489c-a62e-ff30843ee96c
+![tarefas](https://github.com/Bullsyeswild/Lista_tarefas/assets/127852691/a81defca-c976-47a6-b1dd-628762292599)
 
 Usando como inspiração e apoio um código de edição e estilização disponibilizados pelo professor https://replit.com/@DanielSouza7, realizei uma lista de tarefas em C usando listas duplamente encadeadas. Espero que gostem!
